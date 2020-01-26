@@ -13,5 +13,5 @@ Download data from: https://www.kaggle.com/c/dogs-vs-cats/data
   Pandas
   Numpy`
 
-## Validation Train Split
+  Validation Train Split
 Image training set contain 12500 images for each category. I split those into 80% train and 20% means validation.
