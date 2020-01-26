@@ -5,10 +5,10 @@ Download data from: https://www.kaggle.com/c/dogs-vs-cats/data
 Image training set contain 12500 images for each category.  
 I split those into 80% train and 20% means validation.
 
-Folder structure
+### Folder structure
 ```
-# base path : content/gdrive/My Drive/
-# project path(current path) : base path / Colab Notebooks/cat_and_dog_classification/
+### base path : content/gdrive/My Drive/
+### project path(current path) : base path / Colab Notebooks/cat_and_dog_classification/
 
 ./dogs-vs-cats/
     train/
