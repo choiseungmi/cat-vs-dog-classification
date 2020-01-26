@@ -10,23 +10,22 @@ I split those into 80% train and 20% means validation.
 ### base path : content/gdrive/My Drive/
 ### project path(current path) : base path / Colab Notebooks/cat_and_dog_classification/
 
-./dogs-vs-cats/
-    train/
-        ### dogs 12500 pictures
-        dog001.jpg
-        dog002.jpg
-            ...
-        ### cats 12500 pictures
-        cat001.jpg
-        cat002.jpg
-            ...
-    test1/
-        ### 1597 pictures
-        dog001.jpg
-        dog002.jpg
-        ...
-        cat001.jpg
-        cat002.jpg
+├── ...
+└── dogs-vs-cats
+    ├── train ### dogs 12500 pictures, cats 12500 pictures
+    │   ├── dog001.jpg
+    │   ├── dog002.jpg
+    │   ├── ...
+    │   ├── cat001.jpg
+    │   ├── cat002.jpg
+    │   └── ...
+    └── test1 ### 1597 pictures
+        ├── dog001.jpg
+        ├── dog002.jpg
+        ├── ...
+        ├── cat001.jpg
+        ├── cat002.jpg
+        └── ...
 ```
 
 ### Dependencies
