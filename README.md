@@ -1,9 +1,9 @@
 # cat-vs-dog-classification
 
-## Preparing data
+### Preparing data
 Download data from: https://www.kaggle.com/c/dogs-vs-cats/data
 
-## Dependencies
+### Dependencies
   `colab`
   `Tensorflow 1.14`
   `Python 3.6`
