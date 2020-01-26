@@ -1,4 +1,4 @@
-# cat-vs-dog-classification
+# cat vs dog classification
 
 ### Data
 Download data from: https://www.kaggle.com/c/dogs-vs-cats/data  
