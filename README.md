@@ -33,7 +33,6 @@ I split those into 80% train and 20% means validation.
   `Tensorflow 1.14`
   `Python 3.6`
   `Matplotlib`
-  `Seaborn`
-  `Scikit-Learn`
+  `Keras`
   `Pandas`
   `Numpy`
